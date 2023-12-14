@@ -1,0 +1,11 @@
+{
+"name":"uma S",
+"Age":24,
+"Status":"Single",
+"LAnduage Known":["Java","c","C++"],
+"Address":{
+"City":"Ponnamaravathy",
+"Taluk":"Tirumayam",
+"District":"podukkottai",
+"phone":9854327189}
+}
